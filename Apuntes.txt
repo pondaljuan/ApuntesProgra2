@@ -1,0 +1,14 @@
+
+Funcionamiento del compilador en las llamadas a metodos.
+
+La pila nos va almacenando las intrucciones, mientras que el compilador esta leyendo y ejecutando los distintos metodos en el ordene en el que esten definidos( osea en el orden en que se le haya pedido dependiendo de la funcion que vayan a cumplir dichos metodos).
+
+El PC Contador de prograba se encarga de almacenar la direccion de memoria de la siguiente instruccion.
+
+Funcionamiento del compilar en un metodo recursivo 
+
+Tomando en cuenta las variables que tega el factorial se va van procesando los resultados y se acumulan a la pila luego se toman esos resultados se van mostrando segun el orden de llamada que tengan. 
+
+Se puede utilizar Import java.time.LocalDate para poder establecer una fecha de nacimiento
+
+Tambien se puede utilizar java.tima.Period para poder obetener ciertos datos derivados de una informacion previa como los anos que tiene meses el mas reciente el mas viejo etccc
